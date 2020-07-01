@@ -124,7 +124,7 @@
       </plugin>     
     </plugins>
 	  
-	  <plugin>
+<!--	  <plugin>
    <groupId>org.wildfly.plugins</groupId>
    <artifactId>wildfly-maven-plugin</artifactId>
    <version>1.0.2.Final</version>
@@ -134,7 +134,7 @@
       <username>admin</username>
       <password>Admin@123</password>
    </configuration>
-</plugin>
+</plugin> -->
 	  
 	  
 	  
